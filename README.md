@@ -1,2 +1,3 @@
-# dynamic-programing-visualiser
-A webapp to help visualiser the concepts of dynamic programing algorithms.
+# Dynamic Programming Visualiser
+
+Interactive web based platform to help visualise the concepts and paradigm or dynamic programming algorithms.
